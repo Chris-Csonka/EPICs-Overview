@@ -21,22 +21,15 @@
     }
   ],
   "sidebars": {
-    "/data-submission/": {
+    "/EPICs-Overview/": {
       "isCascading": true,
       "items": [
-        {"name": "Introduction", "href": "/data-submission"},
-        {"name": "1 - Prerequisites", "href": "/data-submission/Section1"},
-        {"name": "2 - Register Data Sources", "href": "/data-submission/Section2"},
-        {"name": "3 - Validating Metadata", "href": "/data-submission/Section3"},
-        {"name": "4 - RUI Tissue Blocks", "href": "/data-submission/Section4"},
-        {"name": "5 - Submissions Directory", "href": "/data-submission/Section5"},
-        {"name": "6 - Preparing Metadata", "href": "/data-submission/Section6"},
-        {"name": "7 - Local Validation", "href": "/data-submission/Section7"},
-        {"name": "8 - Upload Directory", "href": "/data-submission/Section8"},
-        {"name": "9 - Clinical Human Metadata", "href": "/data-submission/Section9"},
-        {"name": "10 - Data Processing", "href": "/data-submission/Section10"},
-        {"name": "11 - Data Review", "href": "/data-submission/Section11"},
-        {"name": "12 - dbGap Submission", "href": "/data-submission/Section12"}
+        {"name": "EPICs Overview", "href": "/EPICs-Overview/What_is_an_EPIC"},
+        {"name": "1 - Segmentation masks", "href": "/EPICs-Overview/Example1"},
+        {"name": "2 - Object by Analyte", "href": "/EPICs-Overview/Example2"},
+        {"name": "3 - 3D Reconstruction", "href": "/EPICs-Overview/Example3"},
+        {"name": "4 - Uploading EPICs", "href": "/EPICs-Overview/Annotations_Uploading"},
+        {"name": "5 - Upload Requirements", "href": "/EPICs-Overview/UploadMinReqs"},
       ]
     }
   }
