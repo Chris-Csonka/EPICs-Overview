@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## EPIC Example Type 2
 ### Object by Analyte: <mark>Draft</mark>
 
