@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Cell Type Annotations
 A critical component of EPICs is capturing lab-derived cell type annotations, specifically annotations curated by data providers with expert knowledge about the datasets. While not yet feasible, cell type annotations from EPICs will soon allow Data Portal users to query datasets with questions like "which datasets have B cells?"
 
