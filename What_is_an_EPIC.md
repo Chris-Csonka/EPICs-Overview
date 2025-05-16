@@ -11,6 +11,9 @@ Examples:
 - A lab downloads a published, processed dataset that includes a cell by gene matrix. The lab generates a new set of cell type annotations. This new annotation set is an EPIC with the pre-existing processed dataset being the parent.
 - A lab combines a set of 30 histology images into a (pseudo) 3D image, using a HuBMAP 3D reconstruction pipeline or any other 3D reconstruction pipeline. The 3D reconstruction is an EPIC with 30 parent datasets (i.e., the 30 histology datasets). If the lab generates 3D segmentation masks using the 3D reconstruction, then the 3D segmentation masks are a new EPIC with the parent being the single 3D reconstruction EPIC.
 
+&nbsp;&nbsp;&nbsp;&nbsp; ![EPICs Figure 1](EPICs-Fig1.png)
+
+**Figure 1:** Example of an EPIC dataset (2D segmentation mask) and the upstream, parent dataset (PhenoCycler).
 
 Please contact the [HuBMAP Helpdesk](help@hubmapconsortium.org), if you require assistance or have questions about EPICs.
 
