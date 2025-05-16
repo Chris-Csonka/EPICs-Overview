@@ -29,7 +29,7 @@
         {"name": "2 - Object by Analyte", "href": "/EPICs-Overview/Example2"},
         {"name": "3 - 3D Reconstruction", "href": "/EPICs-Overview/Example3"},
         {"name": "4 - Uploading EPICs", "href": "/EPICs-Overview/Annotations_Uploading"},
-        {"name": "5 - Upload Requirements", "href": "/EPICs-Overview/UploadMinReqs"},
+        {"name": "5 - Upload Requirements", "href": "/EPICs-Overview/UploadMinReqs"}
       ]
     }
   }
