@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # HuBMAP EPICs Overview
 Externally Processed Integrated Collection(s)
 
