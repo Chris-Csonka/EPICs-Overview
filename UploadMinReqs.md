@@ -10,6 +10,6 @@ Like non-EPIC data uploads, EPICs have file requirements that are necessary for 
   - Each EPIC dataset should have a corresponding _subdirectory_ containing all the files in the directory schema.
   - Each row of the metadata file should reference one of these subdirectories via the data_path field.
 
-![Required Files EPIC datasets](EPICs-Fig6B)
+![Required Files EPIC datasets](EPICs-Fig6B.png)
 
 **Figure 6:** Reqired Metadata, Contributor, and Data files (and directories) for EPIC datasets.
