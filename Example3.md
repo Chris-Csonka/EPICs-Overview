@@ -1,5 +1,9 @@
+---
+layout: default
+---
+
 ## EPIC Example Type 3
-## 3D Reconstruction: <mark>Draft</mark>
+### 3D Reconstruction: <mark>Draft</mark>
 
 <mark>This specification is in need of example datasets that can be used for testing.</mark>
 3D reconstructions are pseudo 3D volumes generated from serial sections (see Fig 4). All images used to create the 3D reconstruction must be uploaded prior to uploading this EPIC. True 3D images such as from the lightsheet assay should be uploaded as primary data and not using this EPIC datatype. A 3D reconstruction might not be a comprehensive 3D volume, for example, if one of the serial sections is missing. Hence, these are considered “pseudo” 3D volumes and sometimes referred to as “2.5D”. There is also no expectation with regard to the type of images used in a 3D reconstruction. For example, the reconstruction could include Visium, histology, and CODEX images. 
