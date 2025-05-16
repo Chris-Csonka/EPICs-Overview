@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## EPIC Example Type 1
 ### Segmentation Mask: <mark>Published</mark>
 
