@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Minimum Requirements for an EPIC Upload
 Like non-EPIC data uploads, EPICs have file requirements that are necessary for successful data submission (Fig 6):
 - An _assay metadata_ file titled "metadata.tsv" 
